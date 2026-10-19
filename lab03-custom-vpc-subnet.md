@@ -182,7 +182,7 @@ Do toàn bộ thành phần VPC, Subnet, Route Table và IGW đều **hoàn toà
 
 ---
 
-## 5. Bảng tổng hợp kiến thức thi SAA-C03 từ Lab 04
+## 5. Bảng tổng hợp kiến thức thi SAA-C03 từ Lab 03
 
 | Khái niệm kiến trúc | Đặc tính kỹ thuật cốt lõi | Bẫy câu hỏi trong bài thi SAA |
 |---|---|---|
